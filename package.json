@@ -1,0 +1,15 @@
+{
+  "name": "argocd-demo",
+  "version": "1.0.0",
+  "description": "This project demonstrates simple argocd with kubernetes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "minizymint",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
